@@ -22,7 +22,7 @@ title: embeddedMike
 email: m.balicki@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   embeddedMike is a C/C++ software developer.
-baseurl: "/embeddedmike" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 instagram_path: jekyllrb
