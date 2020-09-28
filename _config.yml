@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 enforce_ssl:
 
 github_path: https://github.com/embeddedMike
-linkedin_path: https://www.linkedin.com/
+linkedin_path: https://www.linkedin.com/uas/login?_l=en
 instagram_path: https://www.instagram.com/embedded_mike
 
 
